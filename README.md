@@ -1,8 +1,7 @@
 # visualization-tool-for-electric-vehicle-charge-and-range-analysis
 Data analytics is key to the growth of Electric Vehicles, integrating with hardware, software, and mechatronic systems.
 
-“Visualization Tool for Electric Vehicle Charge and Range Analysis.”
-    Electric vehicles (EVs) are reshaping the future of transportation with their sustainable and environmentally friendly approach. However, range anxiety and limited understanding of battery performance and charging behavior are major hurdles in EV adoption. This project addresses these concerns by creating an interactive data visualization tool using Tableau, helping stakeholders such as EV owners, manufacturers, researchers, and city planners analyze EV performance and charging patterns.
+ Electric vehicles (EVs) are reshaping the future of transportation with their sustainable and environmentally friendly approach. However, range anxiety and limited understanding of battery performance and charging behavior are major hurdles in EV adoption. This project addresses these concerns by creating an interactive data visualization tool using Tableau, helping stakeholders such as EV owners, manufacturers, researchers, and city planners analyze EV performance and charging patterns.
 
 Purpose
 
