@@ -13,9 +13,13 @@ The main purpose of the project is to provide a visual analytics platform that m
  PROJECT PLANNING & SCHEDULING
 
 1	Gather EV datasets, identify KPIs
+
 2	Clean and preprocess data using Python
+
 3	Build initial Tableau dashboards
+
 4	Refine dashboard visuals and deploy
+
 5	Performance testing, feedback & improvements
 
 
