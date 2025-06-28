@@ -42,22 +42,22 @@ Dashboard 4: Time of Day Charging Patterns
 
 Advantages
 
-User-friendly interface
+1.User-friendly interface
 
-No code required to operate
+2.No code required to operate
 
-Interactive and customizable dashboards
+3.Interactive and customizable dashboards
 
-Visual storytelling aids in better understanding
+4.Visual storytelling aids in better understanding
 
 
 Disadvantages
 
-Relies on quality and completeness of input data
+1.Relies on quality and completeness of input data
 
-Static dashboard if real-time APIs not used
+2.Static dashboard if real-time APIs not used
 
-Limited machine learning capabilities within Tableau
+3.Limited machine learning capabilities within Tableau
 
 
 ---
